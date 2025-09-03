@@ -1,0 +1,21 @@
+{
+
+    "name": "triolingo",
+    "short_name": "morte tristeza e tudo o que há de bom",
+    "start_url": "index.html",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "icons/icon-666.png",
+            "sizes": "192x192",
+            "type": "image/png" 
+        },
+         {
+            "src": "icons/icon-777.png",
+            "sizes": "512x512",
+            "type": "image/png" 
+        }
+    ]
+
+
+}
